@@ -1,0 +1,12 @@
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+using namespace std;
+
+int main() {
+    // Complete the code.
+    string str1, str2, str3, str4, str5;
+    cin>>str1>>str2>>str3>>str4>>str5;
+    cout<<str1<<"\n"<<str2<<"\n"<<str3<<"\n"<<str4<<"\n"<<str5;
+    return 0;
+}
